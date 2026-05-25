@@ -13,7 +13,7 @@ export default function About() {
 
           <h3 className="text-[1.4rem] text-green-dark mt-3">A Different Approach</h3>
           <p>
-            I offer two services — <strong>Nutrition Counseling</strong> and <strong>Private Chef &amp; Meal Prep</strong> — each available on its own, or together for a fully integrated approach to your health and wellbeing.
+            I offer two services — <strong><a href="#services" className="text-green underline underline-offset-2 hover:text-green-dark transition-colors">Nutrition Counseling</a></strong> and <strong><a href="#services" className="text-green underline underline-offset-2 hover:text-green-dark transition-colors">Private Chef &amp; Meal Prep</a></strong> — each available on its own, or together for a fully integrated approach to your health and wellbeing.
           </p>
 
           <h4 className="text-[1.1rem] text-green font-sans font-bold tracking-[0.2px] mt-2">
