@@ -2,7 +2,7 @@ import DandelionSVG from './DandelionSVG'
 
 export default function About() {
   return (
-    <section id="about" className="py-20 bg-white">
+    <section id="about" className="pt-20 pb-0 md:pb-20 bg-white">
       <div className="max-w-[1000px] mx-auto px-6">
         <h2 className="text-[2rem] text-green-dark mb-8">About Regina</h2>
 
