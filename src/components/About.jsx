@@ -31,13 +31,13 @@ export default function About() {
           </p>
         </div>
 
-        {/* Nonna note */}
-        <div className="mt-9 max-w-[720px] bg-yellow-light border-l-4 border-yellow rounded-r-xl p-7 md:p-8">
+        {/* Nonna note — full-width on mobile, constrained + left-border on md+ */}
+        <div className="-mx-6 md:mx-0 mt-9 md:max-w-[720px] bg-yellow-light border-t-4 md:border-t-0 md:border-l-4 border-yellow md:rounded-r-xl px-5 py-6 md:p-8">
           <div className="flex flex-col md:flex-row items-start gap-4">
 
-            {/* Icon + text */}
+            {/* Icon + text — icon hidden on mobile to save width */}
             <div className="flex gap-4 flex-1">
-              <DandelionSVG width={28} height={32} className="mt-0.5" />
+              <DandelionSVG width={28} height={32} className="mt-0.5 hidden md:block" />
               <div>
                 <strong className="block text-[1.05rem] text-green-dark mb-3">Why a dandelion?</strong>
                 <p className="text-[0.97rem] text-[#2C2C2C] mb-2.5 leading-[1.75]">

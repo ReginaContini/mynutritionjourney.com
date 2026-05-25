@@ -7,10 +7,10 @@ export default function Services() {
       <div className="max-w-[1000px] mx-auto px-6">
         <h2 className="text-[2rem] text-green-dark mb-8">Services</h2>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div className="-mx-6 md:mx-0 grid grid-cols-1 md:grid-cols-2 gap-y-4 md:gap-8">
 
           {/* Nutrition Counseling */}
-          <div className="bg-white rounded-xl p-8 shadow-[0_4px_20px_rgba(0,0,0,0.08)] border-t-4 border-yellow flex flex-col gap-4">
+          <div className="bg-white rounded-none md:rounded-xl px-6 py-7 md:p-8 shadow-none md:shadow-[0_4px_20px_rgba(0,0,0,0.08)] border-t-4 border-yellow flex flex-col gap-4">
             <p className="text-[0.88rem] text-green font-sans font-semibold -mt-2">
               📍 Available virtually — anywhere
             </p>
@@ -39,7 +39,7 @@ export default function Services() {
           </div>
 
           {/* Private Chef */}
-          <div className="bg-white rounded-xl p-8 shadow-[0_4px_20px_rgba(0,0,0,0.08)] border-t-4 border-yellow flex flex-col gap-4">
+          <div className="bg-white rounded-none md:rounded-xl px-6 py-7 md:p-8 shadow-none md:shadow-[0_4px_20px_rgba(0,0,0,0.08)] border-t-4 border-yellow flex flex-col gap-4">
             <p className="text-[0.88rem] text-green font-sans font-semibold -mt-2">
               📍 Serving Pinellas County
             </p>
