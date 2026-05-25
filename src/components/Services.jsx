@@ -14,8 +14,10 @@ export default function Services() {
             <p className="text-[0.88rem] text-green font-sans font-semibold -mt-2">
               📍 Available virtually — anywhere
             </p>
-            <div className="text-[2.5rem]">🥗</div>
-            <h3 className="text-[1.4rem] text-green-dark">Nutrition Counseling</h3>
+            <div className="flex items-center gap-3">
+              <span className="text-[2.5rem] leading-none">🥗</span>
+              <h3 className="text-[1.4rem] text-green-dark">Nutrition Counseling</h3>
+            </div>
             <p className="text-[#666] text-[0.98rem]">
               Personalized, evidence-based nutrition counseling to help you reach your health goals — whether you're managing a chronic condition, navigating a diagnosis, or simply ready to feel your best.
             </p>
@@ -43,8 +45,10 @@ export default function Services() {
             <p className="text-[0.88rem] text-green font-sans font-semibold -mt-2">
               📍 Serving Pinellas County
             </p>
-            <div className="text-[2.5rem]">👩‍🍳</div>
-            <h3 className="text-[1.4rem] text-green-dark">Private Chef &amp; Meal Prep</h3>
+            <div className="flex items-center gap-3">
+              <span className="text-[2.5rem] leading-none">👩‍🍳</span>
+              <h3 className="text-[1.4rem] text-green-dark">Private Chef &amp; Meal Prep</h3>
+            </div>
             <p className="text-[#666] text-[0.98rem]">
               Enjoy chef-prepared meals made specifically for you — in your own home. I handle the grocery shopping, prep, cooking, and cleanup, all tailored to your dietary needs and fitness goals.
             </p>
