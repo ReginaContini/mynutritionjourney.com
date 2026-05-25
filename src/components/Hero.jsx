@@ -32,7 +32,7 @@ export default function Hero() {
           <img
             src="/regina.png"
             alt="Regina Contini, Registered Dietitian & Private Chef"
-            className="w-[240px] h-[280px] md:w-[280px] md:h-[320px] object-cover object-top rounded-xl border-4 border-yellow"
+            className="w-[240px] md:w-[280px] rounded-xl border-4 border-yellow"
           />
         </div>
 
