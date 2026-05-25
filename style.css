@@ -206,6 +206,21 @@ nav a:hover { color: var(--green); }
   font-size: 1.05rem;
   color: var(--text);
 }
+.about-service-head {
+  font-size: 1.1rem;
+  color: var(--green);
+  font-family: 'Arial', sans-serif;
+  font-weight: 700;
+  margin-top: 8px;
+  letter-spacing: 0.2px;
+}
+
+.about-subhead {
+  font-size: 1.4rem;
+  color: var(--green-dark);
+  margin-top: 12px;
+}
+
 .nonna-note {
   margin-top: 36px;
   padding: 28px 32px;
@@ -237,6 +252,26 @@ nav a:hover { color: var(--green); }
   line-height: 1.75;
 }
 .nonna-note p:last-child { margin-bottom: 0; }
+.nonna-text { flex: 1; }
+.nonna-photos {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin-left: 20px;
+  flex-shrink: 0;
+  align-items: center;
+}
+.nonna-photo-divider {
+  font-size: 1.1rem;
+  padding: 10px 0;
+  text-align: center;
+  letter-spacing: 4px;
+}
+.nonna-photo {
+  width: 190px;
+  border-radius: var(--radius);
+  border: 3px solid var(--yellow-dark);
+}
 
 /* ── Services ── */
 .services {
