@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --color-yellow: #F2C12E;
+  --color-yellow-light: #FDF3C0;
+  --color-yellow-dark: #D4A017;
+  --color-green: #5A8A3C;
+  --color-green-light: #EAF3E0;
+  --color-green-dark: #3D6128;
+  --color-cream: #FAFAF5;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Georgia, serif;
+  color: #2C2C2C;
+  background-color: #FAFAF5;
+  line-height: 1.7;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
