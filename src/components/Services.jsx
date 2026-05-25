@@ -46,7 +46,7 @@ export default function Services() {
               📍 Serving Pinellas County
             </p>
             <div className="flex items-center gap-3">
-              <span className="text-[2.5rem] leading-none">👩‍🍳</span>
+              <span className="text-[2.5rem] leading-none">👩🏽‍🍳</span>
               <h3 className="text-[1.4rem] text-green-dark">Private Chef &amp; Meal Prep</h3>
             </div>
             <p className="text-[#666] text-[0.98rem]">
@@ -56,6 +56,7 @@ export default function Services() {
               <li>In-home meal preparation</li>
               <li>Grocery shopping included</li>
               <li>Honors all dietary restrictions</li>
+              <li>Customizable meal plans</li>
               <li>Designed around your fitness and health goals</li>
             </ul>
             <a
