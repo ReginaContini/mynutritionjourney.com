@@ -27,12 +27,13 @@ export default function Hero() {
           </div>
         </div>
 
-        {/* Photo placeholder */}
+        {/* Headshot */}
         <div className="flex justify-center">
-          <div className="w-[240px] h-[280px] md:w-[280px] md:h-[320px] rounded-xl bg-white/10 border-[3px] border-dashed border-white/30 flex flex-col items-center justify-center gap-3 text-white/60 text-[0.9rem]">
-            <span className="text-5xl">✿</span>
-            <p>Photo coming soon</p>
-          </div>
+          <img
+            src="/regina.png"
+            alt="Regina Contini, Registered Dietitian & Private Chef"
+            className="w-[240px] h-[280px] md:w-[280px] md:h-[320px] object-cover object-top rounded-xl border-4 border-yellow"
+          />
         </div>
 
       </div>
