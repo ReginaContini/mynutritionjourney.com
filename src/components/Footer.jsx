@@ -6,7 +6,7 @@ export default function Footer() {
           <span className="inline-flex items-center justify-center bg-white rounded-full w-6 h-6 mr-1 align-middle">
             <img src="/dandelion.png" alt="" aria-hidden="true" width={16} height={20} style={{ mixBlendMode: 'multiply' }} />
           </span>{' '}
-          Contini Nutritional Wellness &mdash; Regina Contini, RD
+          Contini Nutritional Wellness PLLC &mdash; Regina Contini, RD, LD
         </p>
         <p className="mt-1 font-sans">
           Registered Dietitian &amp; Private Chef &nbsp;|&nbsp; mynutritionjourney.com
