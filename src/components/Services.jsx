@@ -24,7 +24,7 @@ export default function Services() {
             <ul className="pl-5 list-disc space-y-1.5 text-[0.95rem] marker:text-yellow-dark">
               <li>One-on-one sessions with a Registered Dietitian</li>
               <li>Individualized meal and nutrition planning</li>
-              <li>Ongoing support and accountability</li>
+              <li>Individualized goal setting with accountability</li>
               <li>Insurance reimbursable — <em>coming soon</em></li>
             </ul>
             <a
@@ -46,7 +46,7 @@ export default function Services() {
               📍 Serving Pinellas County
             </p>
             <div className="flex items-center gap-3">
-              <span className="text-[2.5rem] leading-none">👩🏽‍🍳</span>
+              <span className="text-[2.5rem] leading-none">👩🏼‍🍳</span>
               <h3 className="text-[1.4rem] text-green-dark">Private Chef &amp; Meal Prep</h3>
             </div>
             <p className="text-[#666] text-[0.98rem]">
