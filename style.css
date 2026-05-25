@@ -187,16 +187,6 @@ nav a:hover { color: var(--green); }
   font-size: 2rem;
   color: var(--green-dark);
   margin-bottom: 32px;
-  position: relative;
-  padding-bottom: 14px;
-}
-.about h2::after, .services h2::after, .contact h2::after {
-  content: '';
-  position: absolute;
-  bottom: 0; left: 0;
-  width: 60px; height: 4px;
-  background: var(--yellow);
-  border-radius: 2px;
 }
 .about-body {
   display: flex;
@@ -206,6 +196,14 @@ nav a:hover { color: var(--green); }
   font-size: 1.05rem;
   color: var(--text);
 }
+.service-area {
+  font-size: 0.88rem;
+  color: var(--green);
+  font-family: 'Arial', sans-serif;
+  font-weight: 600;
+  margin-top: -8px;
+}
+
 .about-service-head {
   font-size: 1.1rem;
   color: var(--green);
