@@ -27,7 +27,7 @@ export default function About() {
             Nutrition Counseling
           </h4>
           <p>
-            This is your journey — and I'm here to meet you where you are. That means getting to know you holistically so we can set goals that are truly yours. My focus is always on sustainable, long-term lifestyle change rather than quick fixes, which rarely last and often lead right back to the habits that caused the problem in the first place. And beyond the plan itself, my deepest goal for every counseling client is genuine independence — to leave our work together equipped with the critical thinking skills to analyze food and make well-informed choices, grounded in the knowledge and goals we've built together.
+            This is your journey — and I'm here to meet you where you are. That means getting to know you holistically so we can set goals that are truly yours. My focus is always on sustainable, long-term lifestyle change rather than quick fixes, which rarely last and often lead right back to the habits that caused the problem in the first place. And beyond the plan itself, my desire for every counseling client is genuine independence — to leave our work together equipped with the critical thinking skills to analyze food and make well-informed choices, grounded in the knowledge and goals we've built together.
           </p>
         </div>
 
