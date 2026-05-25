@@ -42,7 +42,7 @@ export default function About() {
                 <strong className="text-[1.05rem] text-green-dark">Why a dandelion?</strong>
               </div>
               <p className="text-[0.97rem] text-[#2C2C2C] mb-2.5 leading-[1.75]">
-                The dandelion is for my Nonna, who came from Sardinia, an Italian island in the Mediterranean Sea. One of my earliest memories is from when I was six years old — watching her walk into our overgrown yard with a bucket, gather what the rest of us called weeds, and turn them into a delicious meal of olive oil, garlic, and dandelion leaves. That's when I realized that real nourishment is rarely complicated — sometimes it's been in your own backyard all along.
+                The dandelion is for my Nonna, who came from Sardinia, an Italian island in the Mediterranean Sea. One of my earliest memories is from when I was six years old — watching her walk into our overgrown yard with a bucket, gather what the rest of us called weeds, and sauté them in garlic and olive oil into a delicious meal. That's when I realized that real nourishment is rarely complicated — sometimes it's been in your own backyard all along.
               </p>
               <p className="text-[0.97rem] text-[#2C2C2C] leading-[1.75]">
                 It was at that same age that she began teaching me how to cook. As she grew older and too weak to cook for herself, I started recreating some of her favorite meals for her. Watching the joy and vitality those meals brought her, well into her late nineties, sparked something in me — a deep belief in the power of food to heal, and in how essential it is not just for enjoyment, but for health, longevity, and quality of life.
