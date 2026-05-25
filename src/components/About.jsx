@@ -20,7 +20,7 @@ export default function About() {
             Private Chef &amp; Meal Prep
           </h4>
           <p>
-            What makes this service unique is the combination of both disciplines. As a dietitian and a chef, I create meals that are medically appropriate <em>and</em> genuinely delicious — regardless of your dietary needs or fitness goals. My approach is rooted in the belief that eating well should feel joyful, not restrictive. That includes working with the foods you love — if there are favorite dishes or comfort foods you love, you shouldn't have to give them up — we can brainstorm together to find healthier alternatives that still fit your medical needs or fitness goals, while keeping the enjoyment and nostalgia that make those foods special.
+            What makes this service unique is the combination of both disciplines. As a dietitian and a chef, I create meals that are medically appropriate <em>and</em> genuinely delicious — regardless of your dietary needs or fitness goals. My approach is rooted in the belief that eating well should feel joyful, not restrictive. That includes working with the foods you love — if there are favorite dishes or comfort foods you love, you shouldn't have to give them up — we can brainstorm together to find healthier alternatives that still fit your dietary needs or fitness goals, while keeping the enjoyment and nostalgia that make those foods special.
           </p>
 
           <h4 className="text-[1.1rem] text-green font-sans font-bold tracking-[0.2px] mt-2">
