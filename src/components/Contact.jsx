@@ -4,7 +4,7 @@ export default function Contact() {
       <div className="max-w-[1000px] mx-auto px-6">
         <h2 className="text-[2rem] text-yellow-light mb-4">Get in Touch</h2>
         <p className="max-w-[520px] mx-auto mb-8 opacity-85 text-[1.05rem]">
-          Have questions about services or want to talk through what might be right for you? Reach out — I'd love to hear from you.
+          Have questions about services or want to talk through what might be right for you? Reach out — I'd love to be a part of your journey.
         </p>
         <a
           href="mailto:regina@mynutritionjourney.com"
